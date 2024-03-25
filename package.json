@@ -39,7 +39,7 @@
     "cookie-signature": "1.0.4",
     "ejs": "~0.8.4",
     "ejs-locals": "~1.0.2",
-    "express": "3.16.0",
+    "express": "4.19.2",
     "express-handlebars": "~1.0.1",
     "fs-extra": "~0.8.1",
     "glob": "~3.2.9",
